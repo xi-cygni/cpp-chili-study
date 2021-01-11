@@ -1,0 +1,13 @@
+﻿  Dude.cpp
+  Game.cpp
+  Graphics.cpp
+  Main.cpp
+  MainWindow.cpp
+  Poo.cpp
+  Generating code
+  39 of 667 functions ( 5.8%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> C:\Users\Aguszke\Documents\Programowanie\Chili\8\Chili Framework 2016\Release\Engine.exe
+  Engine.vcxproj -> C:\Users\Aguszke\Documents\Programowanie\Chili\8\Chili Framework 2016\Release\Engine.pdb (Full PDB)

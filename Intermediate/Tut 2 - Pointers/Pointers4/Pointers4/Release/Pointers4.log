@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Generating code
+c:\users\aguszke\documents\programowanie\chili\intermediate\pointers4\pointers4\source.cpp(11): error C4700: uninitialized local variable 'temp' used
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed
